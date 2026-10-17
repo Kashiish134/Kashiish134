@@ -14,7 +14,7 @@ I'm currently pursuing my Master of Computer Applications and I practise DSA �
 📍 Based in Delhi, India
 📫 How to reach me: send me an email or connect on LinkedIn
 😄 Pronouns: She/her
-⚡ Fun fact: [SOMETHING FUN ABOUT YOU]
+
 <br/>
 🚀 Expertise
 
@@ -27,13 +27,8 @@ Along the way I've been learning to lead small teams and deliver projects on tim
 <br/>
 💻 Tech Stack
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b82e22b7-fb80-432e-930c-02864dbf895e" />
-<img width="669" height="457" alt="image" src="https://github.com/user-attachments/assets/972bd64e-9b16-4173-b2aa-9a0711a8d646" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/041e78f9-aea3-4511-8de2-a4bc37446215" />
-<img width="471" height="424" alt="image" src="https://github.com/user-attachments/assets/403d9c80-4dc3-4a19-b596-96aeb6d5ce90" />
-<img width="738" height="414" alt="image" src="https://github.com/user-attachments/assets/2956cb65-7154-490e-b3ba-f969ec47146c" />
-<img width="499" height="400" alt="image" src="https://github.com/user-attachments/assets/a1b5342c-6675-4f73-880a-a93d8acd6e9a" />
-<img width="499" height="290" alt="image" src="https://github.com/user-attachments/assets/aa9f2081-b655-405a-8082-6f84d96f7fd1" />
+<p align="center"> <img src="https://github.com/user-attachments/assets/b82e22b7-fb80-432e-930c-02864dbf895e" alt="Tech 1" height="80"/> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/972bd64e-9b16-4173-b2aa-9a0711a8d646" alt="Tech 2" height="80"/> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/041e78f9-aea3-4511-8de2-a4bc37446215" alt="Tech 3" height="80"/> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/403d9c80-4dc3-4a19-b596-96aeb6d5ce90" alt="Tech 4" height="80"/> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/2956cb65-7154-490e-b3ba-f969ec47146c" alt="Tech 5" height="80"/> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/a1b5342c-6675-4f73-880a-a93d8acd6e9a" alt="Tech 6" height="80"/> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/aa9f2081-b655-405a-8082-6f84d96f7fd1" alt="Tech 7" height="80"/> </p> 
+ <br/>
 
 <br/>
 🛠️ Featured Projects
